@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClipVault</string>
+    <string name="tab_fetch">Fetch</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_vault">Vault</string>
+    <string name="url_hint">Paste video link or page URL…</string>
+    <string name="action_analyze">Analyze Link</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_download">Download Video</string>
+    <string name="no_results_title">No results found</string>
+    <string name="no_results_search_hint">No saved videos match your search or selected filter.</string>
+    <string name="no_results_link_hint">No downloadable MP4 or HTML5 video streams were found at that URL.</string>
+    <string name="action_clear_filters">Reset Search &amp; Filters</string>
+    <string name="action_try_sample">Try Public Sample</string>
+</resources>

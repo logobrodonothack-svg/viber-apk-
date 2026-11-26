@@ -1,0 +1,6 @@
+{
+  "name": "ClipVault",
+  "description": "One-UI-inspired video link analyzer, offline download manager, and local media player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
